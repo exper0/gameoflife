@@ -8,6 +8,7 @@ public class GameOfLife {
     public static final int DEFAULT_WORLD_SIZE = 25;
     public static final int SEED_ZONE_SIZE = 5;
 
+    // could be boolean[][] or even BitSet instead of int but int[][] is just a little more simple and convenient
     private int [][] world;
     private final int size;
 

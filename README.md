@@ -5,7 +5,7 @@ Java 8 or above, optionally gradle (gradle wrapper provided)
 
 ## How to run
 In project directory:
-1. (Preferred) Run `./gradlew build` and then `java -jar build/libs/game-of-life.jar`. This works a little better than running directly from gradle due to interactive nature of program
+1. (Preferred) Run `./gradlew build` and then `java -jar build/libs/game-of-life.jar`. This works a little better than running directly from gradle due to interactive nature of the program
 2. (Additional) Simply run `./gradlew run`
 
 ## How it works
